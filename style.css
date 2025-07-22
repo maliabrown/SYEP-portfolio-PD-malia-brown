@@ -5,7 +5,7 @@
 }
 body{
 
-background-color: honeydew;
+background-color: rgb(227, 183, 24);
 text-align:center;
 line-height:1.5
 }
@@ -28,16 +28,20 @@ font-size:37px;
 
 
 accent{
-color:rgb(207, 184, 167)
+color:rgb(213, 48, 163)
 }
 
 .grid{
-    display: grid;
+    display: flex;
     gap: 15px;
-}
-
-.grid div
+justify-content: center;
+flex-wrap: wrap;
+.
+grid div{
 padding: 20px;
 border-radius;40px;
-background-color:rgb(76, 105, 48)
-} 
+background-color:rgb(42, 157, 183)
+} @media (max-width: 768px)
+body {background-color: 
+
+
